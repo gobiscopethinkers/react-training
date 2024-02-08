@@ -1,2 +1,2 @@
 # react-training
-Scope Thinkers
+Scope Thinkers Training
