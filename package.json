@@ -1,0 +1,31 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "scopethinkers",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gobiscopethinkers/gobi-react.git"
+  },
+  "keywords": [
+    "reat",
+    "sample",
+    "helloworld"
+  ],
+  "author": "Gobi Ganesan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gobiscopethinkers/gobi-react/issues"
+  },
+  "homepage": "https://github.com/gobiscopethinkers/gobi-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
